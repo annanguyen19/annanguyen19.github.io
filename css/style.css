@@ -16,8 +16,7 @@ body {
 .container {
     width: 100%;
     height: auto;
-    margin: auto;
-    align: center;
+    margin: 0;
 
 }
 .banner {
